@@ -43,7 +43,13 @@
           ]
         }
       },
-      "required": ["address", "decimals", "curvePoolAddress", "lpPriceDecimals", "blackListAddresses"],
+      "required": [
+        "address",
+        "decimals",
+        "curvePoolAddress",
+        "lpPriceDecimals",
+        "blackListAddresses"
+      ],
       "additionalProperties": false
     }
   }
